@@ -1,0 +1,6 @@
+{
+  "name": "N-Queens Scholar",
+  "description": "Interactive CS algorithmic analysis and visualization dashboard for the N-Queens problem with real-time conflict detection, backtracking step-through, and complexity matrices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
